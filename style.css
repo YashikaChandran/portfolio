@@ -1,0 +1,46 @@
+.download-btn{
+    background-color: blue;
+    color: white;
+    padding: 10px;
+    text-decoration: none;
+    text-align: center;
+    box-shadow: rgba(153, 194, 227, 0.4) 5px 5px, rgba(129, 121, 126, 0.3) 10px 10px, rgba(202, 178, 193, 0.2) 15px 15px, rgba(198, 191, 195, 0.1) 20px 20px, rgba(239, 237, 238, 0.05) 25px 25px;
+}
+body{
+  background-image: url("https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEghm5lVh-cuuFiA5qv1MHNTYvp4FxpkpUPxBz3yW17119jSEijVNMO3zBvLx7dAETxD6yDGFj9aay-B6pgytLCdeIbvXrc5qz0Pte1FBP_zsfI-bAGm-wWzr2JMIAihdXIAEkaWgztxSwI/s2560/laptop_phone_clock_178806_1080x1920.jpg");
+  background-size: cover;
+}
+header{
+    background-image:linear-gradient(rgb(245, 196, 245),transparent);
+    background-size: cover;
+    box-shadow: rgba(0, 0, 0, 0.45) 0px 25px 20px -20px;
+}
+header ul{
+    
+    padding-top: 10px;
+  
+   
+}
+#home{
+    box-shadow: rgba(17, 17, 26, 0.1) 0px 8px 24px, rgba(17, 17, 26, 0.1) 0px 16px 56px, rgba(17, 17, 26, 0.1) 0px 24px 80px;
+   
+}
+
+
+header a:hover{
+    color: brown;
+}
+#contact{
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+    width: 250px;
+  background-image: linear-gradient(violet,black);
+ 
+}
+#footer h1{
+  background-image:url("https://c8.alamy.com/comp/R9JY2B/abstract-white-and-purple-technology-background-computer-generated-3d-illustration-fractal-art-room-or-street-of-surreal-city-hi-tech-or-virtual-R9JY2B.jpg") ;
+  color: transparent;
+  background-clip: text;
+  font-size: 50px;
+  font-weight: bolder;
+}
+
